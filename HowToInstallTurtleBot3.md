@@ -48,7 +48,9 @@ then run the following command to source the bash file:
 **roslaunch turtlebot3_gazebo turtlebot3_world.launch**
 
 ###### Then to control the robot to move around in its little world. Open a new tab and run the following command:
+
 source the bash file:
+
 **source home/[your name]/[your workplace folder name]/devel/setup.bash
 
 then run the following command 
