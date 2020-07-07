@@ -57,5 +57,7 @@ then run the following command
 
 **roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch** 
 
+Now You can freely control the robot's movement via the terminal just like in the following screenshot:
+
 ![Screen Shot 2020-07-07 at 20 04 18](https://user-images.githubusercontent.com/45641051/86818235-cae33b80-c08e-11ea-82c1-2304d5a9a27b.png)
 
